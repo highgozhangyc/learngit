@@ -2,3 +2,4 @@ testcontent
 test for remote repo
 test bug branch
 push conflict test
+/usr/bin/env
