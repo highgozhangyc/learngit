@@ -1,3 +1,4 @@
 testcontent
 test for remote repo
 test bug branch
+/usr/bin/env
